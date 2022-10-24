@@ -1,0 +1,9 @@
+myproject/myproject/__pycache__
+myproject/category/__pycache__
+myproject/blogs/__pycache__
+*.pyc
+*.db
+*~
+.*
+env/
+!.gitignore
