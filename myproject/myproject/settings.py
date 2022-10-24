@@ -82,12 +82,12 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'myblogs',
         'USER':'root',
-        'PASSWORD':'zxczxc',
-        'HOST': 'localhost',
+        'PASSWORD':'example',
+        'HOST': '172.16.1.5',
         'PORT': '3306',
     }
 }
-
+# CREATE DATABASE `myblogs` CHARACTER SET 'utf8' COLLATE 'utf8_general_ci';
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
